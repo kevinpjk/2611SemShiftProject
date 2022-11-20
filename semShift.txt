@@ -1,0 +1,828 @@
+5548	pope	→	ruff (fish)	New	Open	Show map
+6550	<hat>	→	mushroom cap	Accepted	Open	Show map
+0750	to search, to look for	↔	to want	Accepted	Open	Show map
+4864	heart	→	hearts (in cards)	New	Open	Show map
+6858	<country>	→	turkey	New	Open	Show map
+0509	comb (of a bird)	—	comb	Accepted	Open	Show map
+0973	to stand up	→	to revolt, rebel	Accepted	Open	Show map
+1303	to pull, to draw	→	to slow, linger	Accepted	Open	Show map
+0751	leaf	→	sheet of paper	Accepted	Open	Show map
+0624	to see/to look at	→	to have an appearance	Accepted	Open	Show map
+1148	to cool down (intr.)	→	to calm down	Accepted	Open	Show map
+1476	to remain, stay	→	corpse	Accepted	Open	Show map
+1776	female calf	→	girl	Accepted	Open	Show map
+2295	buttock	—	edge, border	New	Open	Show map
+2540	common, shared by several people	→	vulgar	Accepted	Open	Show map
+0601	wood, timber	—	forest	Accepted	Open	Show map
+0242	to grasp, seize	→	to understand	Accepted	Open	Show map
+2978	poppy (Papaver somniferum)	—	red	Single*	Open	Show map
+0471	eye	→	look (n.)	New	Open	Show map
+5617	key (of a door)	→	keystone	Accepted	Open	Show map
+1042	to drive, to force to move on	→	to drive (the car)	Accepted	Open	Show map
+0337	to strike, hit	→	to astonish	Accepted	Open	Show map
+1311	magpie (Pica pica)	→	talkative person	Accepted	Open	Show map
+2033	fine, powder-like	—	thin (of an object)	Accepted*	Open	Show map
+1138	to bridle	→	to subjugate	Accepted	Open	Show map
+5057	dry	→	dry (wine)	Accepted	Open	Show map
+6755	rupture, hernia	→	burstwort (herniaria)	New	Open	Show map
+2860	wide, broad	—	far away	Single*	Open	Show map
+3764	straight	—	heterosexual	New	Open	Show map
+4763	<foreigner>	→	<thorny plant>	Accepted	Open	Show map
+4825	bed	→	garden bed	Accepted	Open	Show map
+0450	eye	→	opening, hole	Accepted	Open	Show map
+1836	friend	→	beloved	Accepted	Open	Show map
+1395	cross (n.)	→	crossbill (Loxia)	Accepted	Open	Show map
+5479	to drink	→	to consume alcoholic beverages	New	Open	Show map
+3191	sky	—	cloud	New	Open	Show map
+1258	to drop (of liquid)	—	to die	Accepted	Open	Show map
+4558	Ranunculus	—	cornflower (Centaurea)	New	Open	Show map
+6019	rain	→	earthworm	Accepted	Open	Show map
+4022	father	—	defender	Accepted	Open	Show map
+1404	pregnant	→	fraught with consequences	Accepted	Open	Show map
+6007	beard	→	awn	New	Open	Show map
+7149	beetle	→	enthusiastic person	Single	Open	Show map
+1645	tail	—	rudder (of a boat)	New	Open	Show map
+6207	<noise>	→	Bitis arietans	New	Open	Show map
+5529	field	→	fieldfare	New	Open	Show map
+7196	gold	→	goldenrod	New	Open	Show map
+4179	to strike, hit	↔	strike of lightning	Accepted	Open	Show map
+3676	transparent	→	comprehensible	Accepted	Open	Show map
+6380	open-eyed	→	vigilant	New	Open	Show map
+3241	<foreigner>	→	syphilis	Accepted	Open	Show map
+1191	circle	→	finger-ring	New	Open	Show map
+0433	cover, lid	→	eyelid	Accepted	Open	Show map
+2035	thin (of an object)	—	not strong (of liquid or smell)	Accepted	Open	Show map
+2044	thick	→	dense, thick (liquid)	Accepted	Open	Show map
+4334	to ride a surfboard	—	to browse through (a digital source)	New	Open	Show map
+5288	hand/arm	→	hand (of a clock)	New	Open	Show map
+5811	body	→	institution	Accepted	Open	Show map
+5540	corn crake	—	water rail	New	Open	Show map
+1942	to cackle, to cluck	→	to speak	New	Open	Show map
+0140	to take prisoner	→	to charm, to delight	Accepted	Open	Show map
+6519	horse (Equus caballus)	→	hippopotamus	Accepted	Open	Show map
+3494	<young animal>	↔	child (son or daughter)	Accepted	Open	Show map
+1178	crane (Grus)	→	cranberry (Oxycoccus)	Accepted	Open	Show map
+5875	to go out	→	to have relationships (romantic or sexual)	New	Open	Show map
+1522	head	→	heading, title	Accepted	Open	Show map
+0188	flexible	—	compliant, pliable	Accepted	Open	Show map
+0710	in front of	—	before	Accepted	Open	Show map
+3957	to care for, look after	—	to have mercy	Suspended	Open	Show map
+0960	to ask (for)	→	to ask, inquire	Accepted	Open	Show map
+4735	caterpillar	→	caterpillar track	Accepted	Open	Show map
+3989	steam, vapour	—	smell (n.)	Accepted	Open	Show map
+0755	spot, stain	→	place	Accepted	Open	Show map
+0148	nut, hazel	→	testicle	Accepted	Open	Show map
+5872	horse (Equus caballus)	→	horse-fly (Tabanidae)	New	Open	Show map
+2040	thin (of an object)	→	delicate, subtle (person, question etc.)	Accepted	Open	Show map
+6828	drug, medicine	→	narcotic drugs	New	Open	Show map
+0001	to calculate, count	→	to take into account	Accepted	Open	Show map
+1082	servant	→	jack (playing card)	Accepted	Open	Show map
+4959	to ask, inquire	—	to ask (for)	New	Open	Show map
+0016	sweet (taste)	→	dear, darling	Accepted	Open	Show map
+1236	to bark	—	to cough	Accepted	Open	Show map
+0817	taste (n.)	→	aesthetic perception	Accepted	Open	Show map
+2151	deep	→	earnest, serious	New	Open	Show map
+1398	cat	→	catnip (Nepeta cataria)	Accepted	Open	Show map
+0767	dark (adj.)	→	incomprehensible	Accepted	Open	Show map
+2664	pig (Sus scrofa)	→	hedgehog (Еrinaceus)	Accepted	Open	Show map
+3195	<foot-wear>	→	lady's slipper (Cypripedium)	Accepted	Open	Show map
+4621	to spoil (tr.)	→	to pamper	New	Open	Show map
+1349	to become dumb	→	to grow numb	Accepted	Open	Show map
+2617	to light, to kindle (the fire)	→	to shoot	Accepted	Open	Show map
+0387	mud	→	faeces	Accepted	Open	Show map
+1239	to bite	→	bitter	New	Open	Show map
+1677	deep	→	saturated (of colour)	Accepted	Open	Show map
+4868	diamond	→	diamonds (in cards)	New	Open	Show map
+4970	pawn (in chess)	→	puppet, lay figure	New	Open	Show map
+1879	mad	→	angry	New	Open	Show map
+0331	oil (food)	→	petroleum, oil	New	Open	Show map
+1315	head	→	mind (n.)	Accepted	Open	Show map
+5643	fire	→	firebug, Pyrrhocoris apterus	New	Open	Show map
+1126	milk	→	milk-tooth, deciduous tooth	Accepted	Open	Show map
+4618	sooner	→	better	New	Open	Show map
+0748	road	→	manner, way	Accepted	Open	Show map
+6605	to move	→	to move, change residence	Single	Open	Show map
+0234	to cover	→	to copulate	Accepted	Open	Show map
+5491	red	→	common redstart	New	Open	Show map
+6171	bear (Ursus)	→	kinkajou	New	Open	Show map
+0127	sun	→	Sunday	Accepted	Open	Show map
+2160	person	→	servant	Accepted	Open	Show map
+5283	husband	—	wife	New	Open	Show map
+0046	dog	→	seal (animal)	Accepted	Open	Show map
+3045	cloud	—	sky	New	Open	Show map
+1399	dirty	→	bad (ethically)	Accepted	Open	Show map
+1638	to play (intr.)	—	to be glad, happy	New	Open	Show map
+1309	monarch	→	queen (bee)	Accepted	Open	Show map
+1350	to go away	→	to die	Accepted	Open	Show map
+1400	to break (tr.)	→	to ache	Accepted	Open	Show map
+0045	to see/to look at	→	to seem	Accepted	Open	Show map
+0457	eye	→	spot, stain	Accepted	Open	Show map
+4310	to try, to attempt	→	to fit, try on	Accepted*	Open	Show map
+0047	belly	—	location of emotions	Accepted	Open	Show map
+2101	flat (adj)	→	stupid	New	Open	Show map
+3445	alone	→	only, just	Accepted	Open	Show map
+2244	to follow, go after smb.	→	next	Accepted	Open	Show map
+0265	to go down	→	to begin	Accepted*	Open	Show map
+3956	to care for, look after	—	to spare, to economize	Accepted	Open	Show map
+6905	bell	→	lily-of-the-valley (Convallaria majalis)	New	Open	Show map
+0511	comb (of a bird)	—	mountain ridge, edge	Accepted	Open	Show map
+2643	<animal>	→	coward	Accepted	Open	Show map
+0790	flat (adj)	→	simple	Accepted	Open	Show map
+6330	hammer	→	hammer bone, malleus	New	Open	Show map
+5180	quick	→	swift (bird)	Single	Open	Show map
+5678	monster (abnormal creature)	→	cruel	Accepted	Open	Show map
+1035	healthy	—	intact	Accepted	Open	Show map
+2238	hard, solid	—	difficult	Accepted	Open	Show map
+6441	wheat	→	buckwheat	Accepted	Open	Show map
+0412	to emit smoke	→	to smoke (tobacco)	Accepted	Open	Show map
+0849	heavy (of weight)	→	important	Accepted	Open	Show map
+2771	to be born	→	birthmark	Accepted	Open	Show map
+2774	to roast	—	to quarrel	Accepted	Open	Show map
+1399	dirty	→	bad (ethically)	Accepted	Open	Show map
+2507	<bird>	↔	talkative person	Accepted	Open	Show map
+3242	neck	→	neck (of bottle etc.)	Accepted	Open	Show map
+0054	wind	→	window	Accepted	Open	Show map
+1212	to feel pity	→	to regret	Accepted*	Open	Show map
+0547	heel (of a foot)	→	heel (of a shoe)	Accepted	Open	Show map
+4966	blow	—	immediately	New	Open	Show map
+0589	<wooden object>	→	fool	Accepted	Open	Show map
+6182	fox (Vulpes vulpes)	→	red panda	New	Open	Show map
+2509	end	→	completion	Accepted	Open	Show map
+4373	letter (character)	—	letter (text)	Accepted	Open	Show map
+0144	to be tied	→	to feel affection	Accepted	Open	Show map
+1550	trunk (of a tree)	—	torso	New	Open	Show map
+3056	slow (adj.)	—	late	New	Open	Show map
+6859	<country>	→	guinea pig (Cavia porcellus)	New	Open	Show map
+4104	soaked in sauce	—	experienced	New	Open	Show map
+0666	soul	→	person	Accepted	Open	Show map
+2247	free	→	free of charge	Accepted	Open	Show map
+3494	<young animal>	↔	child (son or daughter)	Accepted	Open	Show map
+1064	rooster	→	cock (of a gun)	Accepted	Open	Show map
+7042	horse (Equus caballus)	→	equisetum	New	Open	Show map
+0976	thread	—	wire (n.)	New	Open	Show map
+4709	<name of person>	→	police officer	Single	Open	Show map
+0683	air	—	melody, tune	Accepted	Open	Show map
+2136	to speak	→	to foresee	New	Open	Show map
+2152	tail	→	horsetail	Accepted	Open	Show map
+2727	<fruit>	→	head	Accepted	Open	Show map
+2111	rooster	→	bully	Accepted	Open	Show map
+4337	to approach suddenly	—	to attack	New	Open	Show map
+0203	to be jealous	—	to envy	Accepted	Open	Show map
+0164	to turn, rotate (intr.)	→	to return (intr.)	Accepted	Open	Show map
+0133	Mercury	→	Wednesday	Accepted	Open	Show map
+1730	to bark	→	to tell lie	Accepted	Open	Show map
+0007	to turn, rotate (intr.)	→	to become	Accepted	Open	Show map
+1381	coast	—	edge, border	Accepted	Open	Show map
+6022	heel (of a foot)	→	heel (of bread)	Accepted	Open	Show map
+1145	cold	→	indifferent	Accepted	Open	Show map
+0649	hand/arm	→	side (n.)	Accepted	Open	Show map
+1494	to perceive smell	—	to have smell	Accepted	Open	Show map
+0130	Jupiter	→	Thursday	Accepted	Open	Show map
+0888	back (body part)	→	mountain ridge, edge	Accepted	Open	Show map
+0806	dry	→	having no milk	Accepted	Open	Show map
+5612	red	→	socialist or communist	Accepted	Open	Show map
+5554	<high rank officail in the Catholic Church>	→	<alcoholic drink>	New	Open	Show map
+2112	drone	→	idler, loafer	Accepted	Open	Show map
+3763	straight	—	classical	New	Open	Show map
+4106	hare (Lepus)	→	pacemaker (running)	Accepted	Open	Show map
+2926	girl	—	female servant, maid	Accepted	Open	Show map
+6202	deaf	→	Anguis fragilis	New	Open	Show map
+0746	to see/to look at	→	to understand	Accepted	Open	Show map
+0472	eye	→	opinion	New	Open	Show map
+3608	to raise, lift (tr.)	→	to abolish	Accepted	Open	Show map
+1407	hawk (Accipiter)	→	hawkweed (Hieracium)	Accepted	Open	Show map
+6906	May	→	lily-of-the-valley (Convallaria majalis)	New	Open	Show map
+6876	needle	→	pine needle	New	Open	Show map
+0769	brilliant, glaring	↔	glad	Accepted	Open	Show map
+0561	hand/arm	—	handful	Accepted	Open	Show map
+0807	rough, uneven	→	rude, impolite	Accepted	Open	Show map
+0417	box, container	→	chest (body part)	Accepted	Open	Show map
+6640	catapult	→	slingshot	New	Open	Show map
+5173	dust	→	(gun)powder	Accepted	Open	Show map
+5511	neck	→	Eurasian wryneck	New	Open	Show map
+5562	gold	→	platinum	Accepted	Open	Show map
+2243	to follow, go after smb.	→	to follow logically	Accepted	Open	Show map
+2500	to swear (an oath)	→	to swear, curse	Accepted	Open	Show map
+0695	to strike, hit	→	to defeat, win	Accepted	Open	Show map
+6897	tears	→	lily-of-the-valley (Convallaria majalis)	New	Open	Show map
+4160	to take off (tr.)	—	to abolish	Accepted	Open	Show map
+5480	to gnaw	→	to cause moral suffering	Accepted	Open	Show map
+0480	mouth	→	grimace	Suspended	Open	Show map
+0808	rough, uneven	→	difficult	Accepted*	Open	Show map
+0254	light, bright, clear	→	clever	Accepted	Open	Show map
+0487	mouth	↔	eater	Accepted	Open	Show map
+0514	head	→	headstream	Accepted	Open	Show map
+2631	to thrust (into)	→	to ache	Accepted	Open	Show map
+4674	to approach, come near	→	to experience an orgasm	New	Open	Show map
+6200	slow (adj.)	→	Anguis fragilis	New	Open	Show map
+1568	to pull, to draw	→	to draw, paint	Accepted	Open	Show map
+1056	to have smell	→	to smell bad	Accepted	Open	Show map
+0004	to taste	↔	to try, to attempt	Accepted	Open	Show map
+2670	<animal>	—	white caps (on sea waves)	Accepted	Open	Show map
+4465	cheerful	→	gay	Single	Open	Show map
+1560	nature	—	human temper, character	New	Open	Show map
+2126	stone (piece of rock)	→	stone (of a fruit)	Accepted	Open	Show map
+4662	to look inside	→	to understand	Accepted	Open	Show map
+1113	taste (n.)	→	inclination to smth	Accepted	Open	Show map
+0738	to lead	→	to behave	Accepted	Open	Show map
+5434	to break (tr.)	→	split (gymnastics)	New	Open	Show map
+3051	stupid	—	rabid	New	Open	Show map
+6213	milk	→	Lampropeltis triangulum	New	Open	Show map
+2292	tart (taste)	→	gloomy	Accepted*	Open	Show map
+6981	dog	→	dog-rose	New	Open	Show map
+6215	spade, shovel	→	Chionactis occipitalis	New	Open	Show map
+4537	middle	→	middle finger	Accepted	Open	Show map
+3711	to raise, lift (tr.)	—	to discover game animals or birds (hunting)	Rejected	Open	Show map
+5627	Mary, mother of Jesus	→	ladybird	New	Open	Show map
+3080	<animal>	→	cunning person	Accepted	Open	Show map
+4873	diamond	→	rhombus	New	Open	Show map
+0733	curved	—	wrong	Accepted	Open	Show map
+4012	glass (material)	—	drinking vessel	Accepted	Open	Show map
+3859	fire	→	to shoot	Accepted	Open	Show map
+2205	child (son or daughter)	↔	sucker (botany)	Accepted	Open	Show map
+1094	to speak	—	rumour	Accepted	Open	Show map
+1537	rag, duster (?)	→	clothes	New	Open	Show map
+5272	jay	→	siberian jay	New	Open	Show map
+2696	shapeless	→	ugly, unpleasant	Accepted	Open	Show map
+2182	leech	→	extortioner	New	Open	Show map
+5053	to answer	→	to correspond	Accepted	Open	Show map
+5219	wind	→	rumour	Accepted	Open	Show map
+3390	weak	→	not strong (of liquid or smell)	New	Open	Show map
+4467	navy	→	dark blue	Single*	Open	Show map
+0758	to fill (tr.)	→	to carry out	Accepted	Open	Show map
+6502	rose	→	rose chafer	New	Open	Show map
+5581	tail	→	fox (Vulpes vulpes)	New	Open	Show map
+4010	father	→	ancestor	Accepted	Open	Show map
+1990	patch	—	spot, stain	Accepted*	Open	Show map
+3628	hand/arm	—	handle, gripe	Accepted	Open	Show map
+2010	to be awake	—	attentive	Accepted	Open	Show map
+6315	to practice witchcraft	→	to charm, to delight	New	Open	Show map
+1109	to neigh	→	to laugh	Accepted	Open	Show map
+2074	to insert	—	plant (biol.)	Accepted*	Open	Show map
+4332	to cut	—	windowsill	New	Open	Show map
+6490	night	→	evening	New	Open	Show map
+4866	club (a weapon)	→	clubs (in cards)	New	Open	Show map
+4195	straight	→	exactly	Accepted	Open	Show map
+1676	to blink (by eyes)	→	instant, moment	Accepted	Open	Show map
+1405	to conjure	→	to charm, to delight	Accepted	Open	Show map
+0354	to strew	—	to pour	Accepted	Open	Show map
+2908	cat	→	vagina	Accepted	Open	Show map
+5253	hell	→	experience of great suffering	Accepted	Open	Show map
+3676	transparent	→	comprehensible	Accepted	Open	Show map
+2965	deep	→	dark (adj.)	Accepted*	Open	Show map
+1079	nail (body part)	→	nail (metal spike)	New	Open	Show map
+5681	sack, bag	→	to discharge, dismiss	New	Open	Show map
+0975	to fall down	→	to die	Accepted	Open	Show map
+0589	<wooden object>	→	fool	Accepted	Open	Show map
+0674	<artiodactyl (even-toed animal)>	→	woman	New	Open	Show map
+0059	correct (adj.)	→	right (vs. left)	Accepted	Open	Show map
+0628	cattle	→	bad person	Accepted	Open	Show map
+0481	mouth	→	impudence	New	Open	Show map
+6982	respect (n.)	→	relation, connection	New	Open	Show map
+1682	monarch	→	european kingfisher (Alcedo atthis)	Accepted	Open	Show map
+0067	light, bright, clear	→	comprehensible	Accepted	Open	Show map
+5835	pellicle, membrane	→	film, movie	New	Open	Show map
+1453	footprint, track	→	road	Accepted	Open	Show map
+3045	cloud	—	sky	New	Open	Show map
+6705	head	→	side of a coin	New	Open	Show map
+5223	still (adv.)	→	nevertheless	Accepted	Open	Show map
+2871	thick	→	thick (of a growth, hair)	Accepted	Open	Show map
+0671	pumpkin	—	head	Accepted	Open	Show map
+4344	Mercury	→	mercury	Accepted	Open	Show map
+6390	straw	→	strawberry (Fragaria moschata)	Accepted	Open	Show map
+3673	fearful, dreadful	—	ugly, unpleasant	Accepted	Open	Show map
+1626	short (size)	→	brief	Accepted	Open	Show map
+1271	rooster	→	penis	New	Open	Show map
+1692	to fall down	→	to fall (of rain, snow)	Accepted	Open	Show map
+0548	narrow, close	—	difficult	Accepted	Open	Show map
+1868	road	→	Milky Way	Accepted	Open	Show map
+3085	weather	→	good weather	Accepted*	Open	Show map
+5089	one's own	→	sibling	New	Open	Show map
+6298	China	→	porcelain	Accepted	Open	Show map
+6006	splinter (wood fragment)	→	splinter (group of people)	New	Open	Show map
+2767	to pull up (a plant)	→	to destroy, annihilate	New	Open	Show map
+2872	high (location)	—	high (size), tall	Accepted	Open	Show map
+0746	to see/to look at	→	to understand	Accepted	Open	Show map
+1437	to see/to look at	→	to act according to	Accepted	Open	Show map
+1619	insane	—	rabid	Accepted	Open	Show map
+3262	star	→	celebrity	Accepted	Open	Show map
+5495	winnowing fan	→	fan (hand-held)	New	Open	Show map
+6216	pig (Sus scrofa)	→	Heterodon nasicus	New	Open	Show map
+1166	to chew	→	bit (part of horse harness)	Accepted	Open	Show map
+0762	to taste	→	to feel (an emotion)	Accepted	Open	Show map
+2807	blue	→	sad	Accepted	Open	Show map
+0057	boy	→	servant	Accepted	Open	Show map
+6328	evil spirit	→	cobalt (metal)	Accepted	Open	Show map
+0341	to stand up	→	to happen	Accepted	Open	Show map
+2711	wind	→	to winnow	Accepted*	Open	Show map
+6229	beautiful	→	very	New	Open	Show map
+6706	tail	→	side of a coin	New	Open	Show map
+6495	lame person	→	bad	Accepted	Open	Show map
+2898	clean (adj.)	→	sober	Accepted	Open	Show map
+0130	Jupiter	→	Thursday	Accepted	Open	Show map
+6880	to need	→	must	New	Open	Show map
+4337	to approach suddenly	—	to attack	New	Open	Show map
+0853	to transit	→	to defeat, win	New	Open	Show map
+2030	cold	—	pleasant	Accepted*	Open	Show map
+5565	wild, untamed	→	violent	New	Open	Show map
+2879	narrow	→	little, small	Single*	Open	Show map
+0749	to blow	—	to breathe	Accepted	Open	Show map
+2297	to believe in	→	to trust	Accepted	Open	Show map
+5378	sacred	→	sacrum (bone)	New	Open	Show map
+5680	to make real	→	to understand	New	Open	Show map
+7086	to move down (tr.)	→	to defeat, win	Accepted*	Open	Show map
+2065	branch, twig	—	part	Accepted	Open	Show map
+1655	to touch	→	to reach	Suspended	Open	Show map
+6352	common quail	→	buttonquail	New	Open	Show map
+0898	cheek	→	jaw	Accepted	Open	Show map
+6631	thousand	→	yarrow	New	Open	Show map
+4332	to cut	—	windowsill	New	Open	Show map
+6467	cricket (insect)	→	mole cricket (Gryllotalpa)	New	Open	Show map
+2543	wide, broad	→	big	Accepted*	Open	Show map
+4216	to follow, go after smb.	→	to be adherent	Accepted*	Open	Show map
+5305	cabbage	→	<money>	New	Open	Show map
+2096	soldier	→	soldier (plan, Stratiotes)	New	Open	Show map
+0936	low (size)	→	quiet (vs. loud)	Accepted	Open	Show map
+2793	to fall down	→	autumn	New	Open	Show map
+2163	to cut (tr.)	→	to stop doing smth.	Accepted	Open	Show map
+1875	to prop up	→	to help, aid	Accepted	Open	Show map
+1222	firm, solid	→	quick	Accepted	Open	Show map
+2507	<bird>	↔	talkative person	Accepted	Open	Show map
+5549	pope	→	<bird>	New	Open	Show map
+3046	smooth	—	glad	New	Open	Show map
+3010	snake	→	penis	New	Open	Show map
+1145	cold	→	indifferent	Accepted	Open	Show map
+5775	bow (weapon)	→	bow, fiddlestick	Accepted	Open	Show map
+1673	bitter	→	bitterling	Accepted	Open	Show map
+0028	to get, obtain	→	to receive visitors	Accepted	Open	Show map
+2806	sour	→	sad	Accepted	Open	Show map
+6034	claw	—	claw (of a crustacean)	New	Open	Show map
+2857	to raise, lift (tr.)	→	to bring up	Accepted	Open	Show map
+5549	pope	→	<bird>	New	Open	Show map
+0069	hot	→	recent	Accepted	Open	Show map
+0498	nose	→	sense of smell	Accepted	Open	Show map
+1816	to hang	→	to depend	Accepted	Open	Show map
+6498	to walk, to go	→	to become	New	Open	Show map
+0360	to touch	→	to evoke (a feeling)	Accepted	Open	Show map
+2491	mental hospital	→	disorder, mess	Accepted	Open	Show map
+2708	<furniture>	→	<office>	Accepted	Open	Show map
+1884	to leave	→	to let	Accepted	Open	Show map
+1003	light (of weight)	→	lung	Accepted	Open	Show map
+2880	thin (of an object)	→	little, small	Accepted	Open	Show map
+0035	to see/to look at	→	to have opinion	Accepted	Open	Show map
+3563	bowels, intestine	→	brave	Accepted*	Open	Show map
+1011	to press down	→	to print	Accepted	Open	Show map
+0074	spruce (Picea)	—	abies (Abies)	Accepted	Open	Show map
+4898	queen	→	queen (playing card)	New	Open	Show map
+0419	quick	→	insolent	Accepted	Open	Show map
+5092	idler, loafer	→	sloth (South American mammal)	Accepted	Open	Show map
+5178	to move	→	to make a move (in a game)	Accepted	Open	Show map
+6823	cow	→	woman	New	Open	Show map
+0043	to want	↔	to love	Accepted	Open	Show map
+0826	to tan (hides)	—	brown	Accepted*	Open	Show map
+5004	string (of a musical instrument)	→	chord (music)	Accepted	Open	Show map
+0223	power, authority	→	country, land	Accepted	Open	Show map
+1093	mouse	→	bat (Microchiroptera)	Accepted	Open	Show map
+1145	cold	→	indifferent	Accepted	Open	Show map
+1124	spot, stain	→	disgrace	New	Open	Show map
+0499	nose	→	informer	New	Open	Show map
+2822	European blueberry	→	great bilberry (Vaccinium uliginosum)	New	Open	Show map
+4331	mouse	→	computer mouse	Accepted	Open	Show map
+2654	to die	→	to feel hunger	New	Open	Show map
+1494	to perceive smell	—	to have smell	Accepted	Open	Show map
+1165	to work	→	to give birth	Accepted	Open	Show map
+2532	to break (tr.)	→	to divide into several parts	Accepted	Open	Show map
+1676	to blink (by eyes)	→	instant, moment	Accepted	Open	Show map
+0589	<wooden object>	→	fool	Accepted	Open	Show map
+0368	to put into the ground	→	to bury	Accepted	Open	Show map
+1370	elbow	→	unit of length	Accepted	Open	Show map
+5549	pope	→	<bird>	New	Open	Show map
+5689	kite	→	kite (lightweight toy)	Accepted	Open	Show map
+1516	work (n.)	—	service, good turn	New	Open	Show map
+0566	to come	→	to reach a state	Accepted	Open	Show map
+2873	low (location)	—	low (size)	Accepted	Open	Show map
+6527	rust (n.)	→	rust (plant disease)	New	Open	Show map
+3049	rotten	→	unpleasant	New	Open	Show map
+1605	Gipsy, Gypsy	→	to deceive	New	Open	Show map
+1038	mute, dumb	→	stupid	Accepted	Open	Show map
+1361	to change (tr.)	↔	to change clothes	Accepted	Open	Show map
+1150	low (location)	→	bad (ethically)	Accepted	Open	Show map
+0747	to see/to look at	→	to meet	Accepted	Open	Show map
+5362	iron	→	fetters	New	Open	Show map
+2469	tower	→	prison	Accepted	Open	Show map
+6209	snub-nosed	→	Vipera latastei	New	Open	Show map
+0473	eye	→	supervision	Accepted	Open	Show map
+0851	heavy (of weight)	→	pregnant	Accepted	Open	Show map
+3739	to perceive smell	—	to detect	Accepted*	Open	Show map
+5770	to have smell	→	to indicate something bad	Accepted	Open	Show map
+0172	puppy (of a dog)	→	inexperienced	Accepted	Open	Show map
+3044	to burn (intr.)	—	black	New	Open	Show map
+0381	to pull, to draw	→	to smoke (tobacco)	Accepted	Open	Show map
+1361	to change (tr.)	↔	to change clothes	Accepted	Open	Show map
+6908	guinea fowl	→	turkey	New	Open	Show map
+3886	lot	—	plot of land	Accepted	Open	Show map
+0761	to braid, plait, weave	→	to tell lie	Accepted	Open	Show map
+7182	butcher	→	shrike	New	Open	Show map
+0356	soon	→	almost	Accepted	Open	Show map
+1368	foot	→	unit of length	Accepted	Open	Show map
+6497	to get, obtain	→	to become	New	Open	Show map
+0013	to calculate, count	→	to have opinion	Accepted	Open	Show map
+4590	egg	→	eggplant (Solanum melongena)	Single	Open	Show map
+6306	cowrie	→	porcelain	Accepted	Open	Show map
+1438	louse	→	bad	New	Open	Show map
+0037	to see/to look at	→	to wait	Accepted	Open	Show map
+0003	to find	→	to have opinion	Accepted	Open	Show map
+0856	moon	→	month	Accepted	Open	Show map
+3999	basket	—	beehive	Accepted	Open	Show map
+2783	to move, to shift, to transfer	→	to translate	Accepted	Open	Show map
+4263	nameless	→	ring finger	Accepted	Open	Show map
+0938	fearful, dreadful	→	very	Accepted	Open	Show map
+7115	digit (mathematics)	→	cipher, code	New	Open	Show map
+0384	to see/to look at	→	to care for, look after	Accepted	Open	Show map
+2857	to raise, lift (tr.)	→	to bring up	Accepted	Open	Show map
+0673	green	→	plant (biol.)	Accepted	Open	Show map
+1010	vessel	→	blood vessel	Accepted	Open	Show map
+0730	chopped billet	→	base for beheading	Accepted	Open	Show map
+2134	to break (tr.)	—	to infringe	Accepted	Open	Show map
+0163	to return (tr.)	→	to answer	Accepted	Open	Show map
+2588	to chew	→	to think	Single*	Open	Show map
+0993	to know	→	to understand	Accepted	Open	Show map
+5769	to emit smoke	—	to smell bad	Single	Open	Show map
+1198	to water, to give water	—	to water (plants)	Accepted	Open	Show map
+3777	to touch	—	to deal with	New	Open	Show map
+5030	mother	→	motherland	Accepted	Open	Show map
+3418	to break (tr.)	→	to stop doing smth.	Accepted*	Open	Show map
+0767	dark (adj.)	→	incomprehensible	Accepted	Open	Show map
+1077	greasy	→	fat (adj.)(of a person)	Accepted	Open	Show map
+1583	to see/to look at	→	because of	Accepted	Open	Show map
+0468	eye	→	eye of typhoon	New	Open	Show map
+2734	to be busy, to act	→	commerce, business	Accepted	Open	Show map
+0748	road	→	manner, way	Accepted	Open	Show map
+3817	horseman, rider	→	knight (chess)	Accepted	Open	Show map
+4338	glass (material)	→	glasswort	New	Open	Show map
+3938	to shoot	→	to discharge, dismiss	Accepted	Open	Show map
+1606	Gipsy, Gypsy	→	to nomadize	New	Open	Show map
+6603	sweet (taste)	→	pleasant	Accepted	Open	Show map
+0462	eye	→	loop	Accepted	Open	Show map
+1536	grief, sorrow	→	to regret	Accepted	Open	Show map
+2551	to do	→	to copulate	Accepted	Open	Show map
+0977	<vessel>	↔	head	Accepted	Open	Show map
+0242	to grasp, seize	→	to understand	Accepted	Open	Show map
+3145	shoal	→	troop (of fishes)	Accepted	Open	Show map
+1583	to see/to look at	→	because of	Accepted	Open	Show map
+0502	ear	→	opening, hole	Accepted	Open	Show map
+3181	head	→	nail-head	Accepted	Open	Show map
+2036	thin (of an object)	—	lean	Accepted	Open	Show map
+0602	firewood	—	wood, timber	Accepted	Open	Show map
+0591	house	→	family	Accepted	Open	Show map
+5505	nut, hazel	→	Eurasian nuthatch	New	Open	Show map
+3410	pine-tree	→	horsetail	Accepted	Open	Show map
+4159	to raise, lift (tr.)	—	to take off (tr.)	Accepted*	Open	Show map
+5764	to practice witchcraft	→	to make, create	Single	Open	Show map
+6152	pineapple	→	hand grenade	New	Open	Show map
+5957	to wither	→	to lose colour	Accepted	Open	Show map
+5152	man (male)	→	<exclamation of surprise, pain or sorrow>	Accepted	Open	Show map
+5309	carriage	→	automobile	New	Open	Show map
+0979	bad	—	lean	Accepted	Open	Show map
+6212	lyre	→	Trimorphodon biscutatus	New	Open	Show map
+1100	funny	→	strange	Accepted	Open	Show map
+2003	sharp	→	clever	Accepted	Open	Show map
+1418	expensive	↔	dear, darling	Accepted	Open	Show map
+1736	to smell bad	—	bad	Accepted*	Open	Show map
+0764	bitter	→	sad	Accepted	Open	Show map
+1405	to conjure	→	to charm, to delight	Accepted	Open	Show map
+0477	mouth	→	mouth (of a river)	Accepted	Open	Show map
+6674	<woman>	→	opening, hole	New	Open	Show map
+1107	to smear, anoint	→	to bribe	Accepted	Open	Show map
+0128	Venus	→	Friday	Accepted	Open	Show map
+3596	tongue (body part)	→	cape	Accepted	Open	Show map
+0828	to hold (in hands)	→	to contain	Accepted	Open	Show map
+1091	to die	→	to want	Accepted	Open	Show map
+2664	pig (Sus scrofa)	→	hedgehog (Еrinaceus)	Accepted	Open	Show map
+1423	to strike, hit	→	woodpecker	Accepted	Open	Show map
+3050	blunt	—	slow (adj.)	New	Open	Show map
+2981	little, small	→	little finger	Accepted	Open	Show map
+3304	bell	→	bellflower (Campanula)	Accepted	Open	Show map
+2212	foot	→	mountain foot	Accepted	Open	Show map
+2411	arc	→	bow (weapon)	Accepted	Open	Show map
+6151	cone (fruit)	→	pineapple	New	Open	Show map
+1585	manufacturer, producer	→	commodity, goods	Accepted	Open	Show map
+0625	noise	—	rumour	Accepted	Open	Show map
+0674	<artiodactyl (even-toed animal)>	→	woman	New	Open	Show map
+0878	cattle	↔	property, possessions	Accepted	Open	Show map
+5532	night	→	nightingale	New	Open	Show map
+5232	idler, loafer	→	track idler wheel	Accepted	Open	Show map
+3450	only, just	→	but, however	Accepted*	Open	Show map
+5900	radish	—	black radish	New	Open	Show map
+1171	heart	↔	location of emotions	Accepted	Open	Show map
+3989	steam, vapour	—	smell (n.)	Accepted	Open	Show map
+0932	heart	↔	centre	Accepted	Open	Show map
+4339	salt	→	glasswort	New	Open	Show map
+0133	Mercury	→	Wednesday	Accepted	Open	Show map
+1465	face	→	surface	Accepted	Open	Show map
+0545	to pay	—	to revenge	Accepted	Open	Show map
+6226	to break (intr.)	→	to break (of male voice)	Accepted	Open	Show map
+5421	smoke	→	common fumitory (Fumaria officinalis)	Accepted	Open	Show map
+5674	room	→	cell (of honeycomb)	Accepted	Open	Show map
+6724	bridge	→	bridge (of musical imstrument)	New	Open	Show map
+0129	Saturn	—	Saturday	Accepted	Open	Show map
+2533	to break (tr.)	→	to subjugate	Accepted*	Open	Show map
+3423	white	—	good	Accepted	Open	Show map
+0220	strong	→	strong (of liquid or smell)	Accepted	Open	Show map
+6228	time (instanse)	→	when	New	Open	Show map
+6874	light (n.)	→	state, situation	New	Open	Show map
+6512	bumblebee	→	cockchafer	New	Open	Show map
+0005	to go, walk	→	to find	Accepted	Open	Show map
+0591	house	→	family	Accepted	Open	Show map
+4961	always	→	still (adv.)	Accepted	Open	Show map
+0057	boy	→	servant	Accepted	Open	Show map
+5051	grandfather	→	old man	Accepted	Open	Show map
+0752	to carry	→	to endure	Accepted	Open	Show map
+5761	court (of a sovereign)	→	polite	Accepted	Open	Show map
+5310	carriage	→	railcar	New	Open	Show map
+0560	to mix, stir	→	to confuse (with)	Accepted	Open	Show map
+0344	to wound (tr.)	→	to offend (tr.)	Accepted	Open	Show map
+5809	tail	→	coccyx, tailbone	New	Open	Show map
+2668	to know	→	to practice witchcraft	Accepted	Open	Show map
+2183	to follow, go after smb.	→	to act according to	Accepted	Open	Show map
+5770	to have smell	→	to indicate something bad	Accepted	Open	Show map
+5543	ruff	→	ruff (fish)	New	Open	Show map
+1964	to spring, jump	→	grasshopper (Tettigonioidea)	Accepted	Open	Show map
+2798	<profession>	↔	talkative person	Accepted	Open	Show map
+0898	cheek	→	jaw	Accepted	Open	Show map
+0405	period of time	→	age	Accepted	Open	Show map
+4185	branch, twig	—	branch (of a river)	Accepted	Open	Show map
+5791	palm (body part)	→	palm (tree)	Accepted	Open	Show map
+7087	to gather, collect	→	to recall, recollect	Single	Open	Show map
+1317	to sit down	→	to set (of Moon, Sun)	Accepted	Open	Show map
+2002	rough, uneven	→	approximately	Accepted*	Open	Show map
+5001	reed	→	reed (in loom)	Accepted*	Open	Show map
+0552	granule	→	small quantity of something	New	Open	Show map
+3276	underground, subterranean	→	secret	Accepted*	Open	Show map
+1017	straight	→	honest	Accepted	Open	Show map
+1211	to feel thirsty	—	to want	Accepted	Open	Show map
+4230	to sow	—	to cause	Accepted	Open	Show map
+2679	<animal>	—	fool	Accepted	Open	Show map
+5307	weed	→	cannabis	New	Open	Show map
+1585	manufacturer, producer	→	commodity, goods	Accepted	Open	Show map
+6958	white	→	white (politics)	New	Open	Show map
+1107	to smear, anoint	→	to bribe	Accepted	Open	Show map
+1401	to lose (an object)	→	to be defeated	Accepted	Open	Show map
+3487	to raise, lift (tr.)	→	to bring into discussion	Accepted	Open	Show map
+4559	blind	→	solid, entire, continuous	New	Open	Show map
+0368	to put into the ground	→	to bury	Accepted	Open	Show map
+1221	to dig	→	to find	New	Open	Show map
+0622	to howl	—	to cry, weep	New	Open	Show map
+1337	attack (n.)	→	attack of disease	Accepted	Open	Show map
+5302	pig (Sus scrofa)	→	police officer	New	Open	Show map
+0785	to press down	→	to oppress	Accepted	Open	Show map
+0980	to move quickly	—	to flow	Accepted	Open	Show map
+1925	simple	→	stupid	Accepted	Open	Show map
+0977	<vessel>	↔	head	Accepted	Open	Show map
+3602	day	—	today	Accepted*	Open	Show map
+0733	curved	—	wrong	Accepted	Open	Show map
+2542	little, small	→	detailed, thorough	Accepted*	Open	Show map
+7241	sacred	→	holiday	New	Open	Show map
+4209	court (of a sovereign)	→	tribunal	New	Open	Show map
+5310	carriage	→	railcar	New	Open	Show map
+0503	ear	→	hearing	Accepted	Open	Show map
+0733	curved	—	wrong	Accepted	Open	Show map
+3402	freedom	→	territorial entity	Accepted	Open	Show map
+0963	good	→	very	Accepted	Open	Show map
+0470	eye	→	vision	Accepted	Open	Show map
+3767	to cry (of animals)	—	to cry, weep	Accepted*	Open	Show map
+0029	to get, obtain	→	to become infected	Accepted	Open	Show map
+7065	to stop moving	→	to stop (intr.)	Accepted	Open	Show map
+0767	dark (adj.)	→	incomprehensible	Accepted	Open	Show map
+0628	cattle	→	bad person	Accepted	Open	Show map
+1731	stone (piece of rock)	→	turnstone (Arenaria)	Accepted	Open	Show map
+1807	to see/to look at	→	to guard	Accepted	Open	Show map
+5386	tin (n.)	→	tin, can	New	Open	Show map
+1460	to lie (posture)	→	to be situated	Accepted	Open	Show map
+2679	<animal>	—	fool	Accepted	Open	Show map
+4375	to ask (for)	→	to pray	Accepted	Open	Show map
+2062	end	—	aim, goal	Accepted	Open	Show map
+2869	short (size)	→	missing, failing	Accepted*	Open	Show map
+5554	<high rank officail in the Catholic Church>	→	<alcoholic drink>	New	Open	Show map
+6457	mole (Talpa)	→	mole cricket (Gryllotalpa)	New	Open	Show map
+0019	to remind	→	to resemble, be alike	Accepted	Open	Show map
+1455	to call	→	to name	Accepted	Open	Show map
+2994	tree	→	beam	Single*	Open	Show map
+0137	to suffer	—	to endure	Accepted	Open	Show map
+0653	to eat	→	to be fed up with	Accepted	Open	Show map
+2158	dew	→	sundew (Drosera)	Accepted	Open	Show map
+2798	<profession>	↔	talkative person	Accepted	Open	Show map
+0510	comb (of a bird)	—	mane	Single	Open	Show map
+3333	to boil (intr.)	→	to worry, be agitated	Accepted	Open	Show map
+2186	to see/to look at	→	to beware, be careful	Accepted	Open	Show map
+5011	to come	—	to become	New	Open	Show map
+0488	mouth	→	herald, messenger	New	Open	Show map
+3872	father	→	<priest>	Accepted	Open	Show map
+2500	to swear (an oath)	→	to swear, curse	Accepted	Open	Show map
+0743	to weigh (tr.)	→	to think	Accepted	Open	Show map
+1252	to pinch	→	to steal	Accepted	Open	Show map
+3074	bowel	→	string (of a musical instrument)	Accepted	Open	Show map
+5230	will	→	will (legal document)	New	Open	Show map
+2128	cold	→	<cold steel>	New	Open	Show map
+4208	yard, courtyard	→	court (of a sovereign)	Accepted	Open	Show map
+3319	brilliant, glaring	↔	loud	New	Open	Show map
+1726	eye	→	eyebright (Euphrasia officinalis)	Accepted	Open	Show map
+1141	nettle (Urtica)	→	medusa, jellyfish	Accepted	Open	Show map
+0346	dream (during sleep)	—	daydream (n.)	Accepted	Open	Show map
+2086	owner	→	husband	Accepted	Open	Show map
+0795	time	→	time (instanse)	Accepted	Open	Show map
+3470	to rein in	→	to restrain, control one’s feelings	Accepted*	Open	Show map
+1078	lean	→	fatless	Accepted	Open	Show map
+0027	to get, obtain	→	to contain	Accepted	Open	Show map
+0504	ear	→	listener	Accepted*	Open	Show map
+6996	<vessel>	→	flower cup	New	Open	Show map
+0865	blunt	→	stupid	Accepted	Open	Show map
+5304	dough	→	money	New	Open	Show map
+4102	mirror	→	mirror (website)	Accepted	Open	Show map
+1372	stick (n.)	→	unit of length	Accepted	Open	Show map
+3710	fly (n.)	→	fly agaric (Amanita muscaria)	Accepted	Open	Show map
+1999	smooth	—	to escape, flee	Accepted	Open	Show map
+6779	to turn, rotate (intr.)	→	to turn (of age)	New	Open	Show map
+6913	fast (n.)	→	breakfast	Accepted*	Open	Show map
+2410	to let, leave	→	to stop doing smth.	Accepted	Open	Show map
+3656	to pull, to draw	→	to draw (an official paper)	New	Open	Show map
+0984	to see/to look at	→	to search, to look for	Accepted	Open	Show map
+0992	to see/to look at	→	to have experience	Accepted	Open	Show map
+2263	stump (of tree)	→	share; stock	New	Open	Show map
+3317	<dish>	↔	disorder, mess	Accepted	Open	Show map
+5413	tongue (body part)	↔	clapper of a bell	Accepted	Open	Show map
+3192	<hat>	→	aconite	Accepted	Open	Show map
+3678	to eat	→	to corrode	Accepted	Open	Show map
+0242	to grasp, seize	→	to understand	Accepted	Open	Show map
+4909	snake	→	dragonfly	New	Open	Show map
+0585	missing, failing	→	stupid	New	Open	Show map
+0886	bile, gall	—	anger	Accepted	Open	Show map
+4354	to itch	→	to want	New	Open	Show map
+1699	black	→	illegal	Accepted	Open	Show map
+0384	to see/to look at	→	to care for, look after	Accepted	Open	Show map
+6763	frog	→	diver	New	Open	Show map
+0580	<crockery>	→	face	New	Open	Show map
+3367	brave	—	insolent	Accepted*	Open	Show map
+2109	to flow	→	electricity	Accepted	Open	Show map
+2078	to cut (tr.)	→	to cut off relationships	Accepted*	Open	Show map
+0944	button (on a dress)	→	push button	Accepted	Open	Show map
+0957	affair	→	battle	Accepted	Open	Show map
+4854	spleen (anat.)	—	anger	New	Open	Show map
+1403	to follow, go after smb.	→	to watch, look after	Accepted	Open	Show map
+1183	to dissolve in liquid (tr.)	→	to solve (a problem)	Accepted	Open	Show map
+1005	head	→	boss	Accepted	Open	Show map
+3845	literally	→	figuratively	Accepted*	Open	Show map
+4014	father	→	founder	Accepted	Open	Show map
+0394	miserable, unhappy	↔	poor, needy	Accepted	Open	Show map
+2892	touched	→	insane	Accepted	Open	Show map
+2119	monkey	→	to imitate	Accepted	Open	Show map
+2043	thick	↔	fat (adj.)(of a person)	Accepted	Open	Show map
+0782	brilliant, glaring	→	clever	Accepted	Open	Show map
+0006	to think	→	to recall, recollect	Accepted	Open	Show map
+3201	milk	→	dandelion	Accepted*	Open	Show map
+5544	ruff	→	ruff (bird)	New	Open	Show map
+2063	to think	→	to intend	Accepted	Open	Show map
+5576	glutton	→	wolverine	Accepted	Open	Show map
+0678	strength	—	power, authority	Accepted	Open	Show map
+4391	crane (Grus)	→	lifting machine	Accepted	Open	Show map
+3494	<young animal>	↔	child (son or daughter)	Accepted	Open	Show map
+7089	low (size)	→	small amount, a bit	Accepted*	Open	Show map
+1180	to hold (in hands)	→	to have opinion	Accepted	Open	Show map
+2602	to extinguish	→	to destroy, annihilate	Accepted	Open	Show map
+2366	fire	→	inflammation	Accepted	Open	Show map
+0475	eye	→	observer	Accepted	Open	Show map
+2701	ram	→	battering-ram	Accepted	Open	Show map
+1897	wolf	—	cruel	New	Open	Show map
+1147	fox (Vulpes vulpes)	↔	cunning person	Accepted	Open	Show map
+1003	light (of weight)	→	lung	Accepted	Open	Show map
+0134	shine (n.)	—	fame	Accepted	Open	Show map
+2778	hand/arm	→	power, authority	Accepted	Open	Show map
+6015	foot/leg	→	leg (furniture)	New	Open	Show map
+6911	<country>	→	guinea fowl	New	Open	Show map
+0507	throat	→	passageway	Suspended	Open	Show map
+6201	blind	→	Anguis fragilis	New	Open	Show map
+5878	to differ, to make distinction	—	to discriminate, to treat improperly	New	Open	Show map
+2551	to do	→	to copulate	Accepted	Open	Show map
+0073	sweet (taste)	→	fresh (of water)	Accepted	Open	Show map
+5565	wild, untamed	→	violent	New	Open	Show map
+5530	leaf	→	leaf (of door, window)	New	Open	Show map
+3961	to spell	—	to conjure	New	Open	Show map
+1433	back (body part)	—	behind	Accepted	Open	Show map
+4725	falcon	→	cannon (weapon)	Single*	Open	Show map
+2820	head	→	ear, spike (of a grain plant)	Accepted	Open	Show map
+1340	hair	→	hair (of animals)	Accepted	Open	Show map
+4245	sweet potato (Ipomoea batatas)	→	potato	Accepted	Open	Show map
+1332	bald	→	bald-coot (Fulica atra)	Accepted	Open	Show map
+5604	to pray	→	mantis	New	Open	Show map
+0275	poisonous	→	sarcastic	Accepted*	Open	Show map
+1979	sail (n.)	→	to sail	Accepted	Open	Show map
+4103	page	—	website	Accepted*	Open	Show map
+6392	sun	→	moderlieschen	New	Open	Show map
+7012	fortress	→	rook (chess)	New	Open	Show map
+2377	sphere; ball	→	bullet	Accepted	Open	Show map
+2739	mountain	→	cloud	Accepted*	Open	Show map
+0701	paper	→	document (n.)	Accepted	Open	Show map
+0654	to shout	→	to cry, weep	Accepted	Open	Show map
+5496	fan (hand-held)	→	electrical fan	New	Open	Show map
+0403	goal frame (sport)	↔	goal (sport result)	Accepted	Open	Show map
+0855	to feed	→	to bring up	Accepted	Open	Show map
+6355	nut, hazel	→	hazel grouse (Tetrastes bonasia)	New	Open	Show map
+6911	<country>	→	guinea fowl	New	Open	Show map
+3765	straight	—	undiluted	New	Open	Show map
+5311	tank (closed container for liquids)	→	tank (armour)	New	Open	Show map
+1372	stick (n.)	→	unit of length	Accepted	Open	Show map
+3192	<hat>	→	aconite	Accepted	Open	Show map
+6503	May	→	cockchafer	New	Open	Show map
+0782	brilliant, glaring	→	clever	Accepted	Open	Show map
+0740	to lead	→	to cause	Accepted	Open	Show map
+1062	dog	→	whore	Accepted	Open	Show map
+0767	dark (adj.)	→	incomprehensible	Accepted	Open	Show map
+2083	high (location)	→	proud	Accepted	Open	Show map
+5555	spindle	→	dragonfly	New	Open	Show map
+7200	foam	→	lumpen	Accepted	Open	Show map
+1225	ceiling	→	palate	Accepted	Open	Show map
+3588	present, gift	→	talent	Accepted	Open	Show map
+3508	to want	→	necessary	Accepted*	Open	Show map
+0573	to come	→	to begin	Accepted	Open	Show map
+3677	good	→	property, possessions	Accepted	Open	Show map
+1585	manufacturer, producer	→	commodity, goods	Accepted	Open	Show map
+5679	mine (underground tunnel)	→	mine (explosive device)	Accepted	Open	Show map
+4195	straight	→	exactly	Accepted	Open	Show map
+2724	to cut (tr.)	→	to dilute	Accepted	Open	Show map
+0184	to sleep	→	to copulate	Accepted	Open	Show map
+2061	aim, goal	→	goal (sport result)	Accepted*	Open	Show map
+3929	glass (material)	→	mirror	Accepted	Open	Show map
+0342	to fall down	→	to decrease drastically	Accepted	Open	Show map
+3277	zebra	→	pedestrian crossing	Accepted	Open	Show map
+1601	shadow	→	phantom, ghost	Accepted	Open	Show map
+5404	bathroom	→	toilet	New	Open	Show map
+0744	tongue (body part)	→	language	Accepted	Open	Show map
+3275	underground, subterranean	→	illegal	Accepted	Open	Show map
+0580	<crockery>	→	face	New	Open	Show map
+5224	child (son or daughter)	—	child (of age)	Accepted	Open	Show map
+5955	shield	→	shooting target	New	Open	Show map
+0068	morning	—	tomorrow	Accepted	Open	Show map
+1679	<fish>	→	cigarette butt	New	Open	Show map
+0595	hook	↔	fang	Accepted	Open	Show map
+1808	moon	→	insane	Accepted	Open	Show map
+2679	<animal>	—	fool	Accepted	Open	Show map
+0213	clean (adj.)	→	totally, absolutely	Accepted	Open	Show map
+0754	to bend, bow (intr.)	→	to be disposed towards	Accepted	Open	Show map
+3417	to mill	→	to destroy, annihilate	Accepted*	Open	Show map
+3227	bell	→	watch, clock	New	Open	Show map
+2328	healthy	→	competent	Accepted	Open	Show map
+5059	dry	→	abstinent (from alcohol)	Accepted	Open	Show map
+2216	bastard	—	bad person	New	Open	Show map
+3770	gloomy	—	boring	New	Open	Show map
+0739	to lead	→	to govern, control, rule	Accepted	Open	Show map
+0131	Mars	→	Tuesday	Accepted	Open	Show map
+0728	bottom	↔	buttock	Accepted	Open	Show map
+2868	to blow	→	to strike, hit	Accepted	Open	Show map
+5627	Mary, mother of Jesus	→	ladybird	New	Open	Show map
+3769	alike	→	probably	Accepted*	Open	Show map
+7088	to call	→	to recall, recollect	Accepted	Open	Show map
+4867	spade, shovel	→	spades (in cards)	New	Open	Show map
+1162	to spring, jump	→	frog	Accepted	Open	Show map
+1618	book (n.)	→	note book	Suspended	Open	Show map
+0563	man (male)	↔	person	Accepted	Open	Show map
+5844	bitch	→	<curse>	New	Open	Show map
+2089	dust	→	pollen	Accepted	Open	Show map
+6052	to forge	→	to falsify	New	Open	Show map
+1150	low (location)	→	bad (ethically)	Accepted	Open	Show map
+5053	to answer	→	to correspond	Accepted	Open	Show map
+5404	bathroom	→	toilet	New	Open	Show map
+0344	to wound (tr.)	→	to offend (tr.)	Accepted	Open	Show map
+1205	hand/arm	—	wing	Accepted	Open	Show map
+6197	sunbeam	→	Xenopeltis unicolor	New	Open	Show map
+5159	mistress of a house	→	mistress, paramour	Accepted	Open	Show map
+3610	to forget	→	forget-me-not (flower)	Accepted	Open	Show map
+0495	nose	→	front part	Accepted	Open	Show map
+0838	hump (of a person or camel)	—	hill	Accepted	Open	Show map
+0865	blunt	→	stupid	Accepted	Open	Show map
+5614	right (vs. left)	→	right (political)	Accepted	Open	Show map
+1527	cold	→	cold (disease)	Accepted	Open	Show map
+1799	to call	→	to make a telephone call	Accepted	Open	Show map
+4441	arrow	→	shuttle (weaving instrument)	Single*	Open	Show map
+2005	edge, border	—	sharp point	Accepted*	Open	Show map
+1467	heart	→	brave	Accepted	Open	Show map
+6858	<country>	→	turkey	New	Open	Show map
+0132	moon	→	Monday	Accepted	Open	Show map
+2080	meat	→	fruit pulp	Accepted	Open	Show map
+2861	thick	→	stupid	Single*	Open	Show map
+0156	hot	→	spicy	Accepted	Open	Show map
+0467	eye	→	centre	Suspended	Open	Show map
+0930	to fall down	—	case (grammar)	Accepted	Open	Show map
+5672	cell (of honeycomb)	→	cell (in biology)	Accepted	Open	Show map
+6754	storm	→	petrel (Procellaria)	New	Open	Show map
+4163	glass (material)	→	spectacles	Accepted	Open	Show map
+5504	to slide	→	to make a mistake, be wrong	New	Open	Show map
+1665	food	—	meat	Accepted	Open	Show map
+1372	stick (n.)	→	unit of length	Accepted	Open	Show map
+3376	big	↔	strong	New	Open	Show map
+2385	to croak	→	to predict misfortune	Accepted	Open	Show map
+5745	to calculate, count	→	computer	Accepted	Open	Show map
+5613	left	→	left (political)	Accepted	Open	Show map
+6357	<bird>	→	cockchafer	New	Open	Show map
+2304	heart	→	by heart	Accepted	Open	Show map
+0748	road	→	manner, way	Accepted	Open	Show map
+1316	to go out	→	to run out (of smth)	Accepted	Open	Show map
